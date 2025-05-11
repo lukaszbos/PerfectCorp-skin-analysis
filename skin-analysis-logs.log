@@ -1,0 +1,130 @@
+Start File creation!
+200 
+{"status":200,"result":{"files":[{"content_type":"image/jpeg","file_name":"no-makeup.png","file_id":"19HlaM4z7kkV/PHWC7OPgjmM0lA352w9H0j0/NKLMIALbKfeLEmuXUa9yH4wuc2K","requests":[{"method":"PUT","url":"https://yce-us.s3-accelerate.amazonaws.com/ttl30/318324692597344053/77404854726/v2/aeMNNB0KmUIP8rnQ996tC5Q/8c07ff71-8123-4e49-bab4-25ad03823608.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250511T212054Z&X-Amz-SignedHeaders=content-length%3Bcontent-type%3Bhost&X-Amz-Expires=7200&X-Amz-Credential=AKIARB77EV5Y5D7DAE3S%2F20250511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=61a32a199e62a296af1916afd9e085ecd8fa94b9d2f982e3919ff33d091b4ae8","headers":{"Content-Length":"65614","Content-Type":"image/jpeg"}}]}]}}
+File Created! Extracted file_id: 19HlaM4z7kkV/PHWC7OPgjmM0lA352w9H0j0/NKLMIALbKfeLEmuXUa9yH4wuc2K
+Extracted task_id: 19HlaM4z7kkV_PHWC7OPgjmM0lA352w9H0j0_NKLMIDGjiZzQMeBCqHJAoZEh211
+Polling URL: https://yce-api-01.perfectcorp.com/s2s/v1.0/task/skin-analysis?task_id=19HlaM4z7kkV_PHWC7OPgjmM0lA352w9H0j0_NKLMIDGjiZzQMeBCqHJAoZEh211
+[2025-05-11 23:20:40.816] Attempt 1: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:41.604] Attempt 2: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:41.845] Attempt 3: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:42.081] Attempt 4: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:42.320] Attempt 5: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:42.573] Attempt 6: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:42.809] Attempt 7: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:43.043] Attempt 8: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:43.280] Attempt 9: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:43.517] Attempt 10: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:43.754] Attempt 11: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:43.989] Attempt 12: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:44.225] Attempt 13: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:44.461] Attempt 14: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:44.695] Attempt 15: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:44.929] Attempt 16: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:45.164] Attempt 17: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:45.489] Attempt 18: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:45.731] Attempt 19: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:45.965] Attempt 20: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:46.212] Attempt 21: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:46.447] Attempt 22: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:46.682] Attempt 23: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:46.918] Attempt 24: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:47.156] Attempt 25: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:47.404] Attempt 26: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:47.647] Attempt 27: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:47.885] Attempt 28: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:48.123] Attempt 29: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:48.358] Attempt 30: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:48.594] Attempt 31: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:48.830] Attempt 32: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:49.066] Attempt 33: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:49.303] Attempt 34: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:49.540] Attempt 35: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:49.776] Attempt 36: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:50.012] Attempt 37: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:50.249] Attempt 38: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:50.486] Attempt 39: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:50.721] Attempt 40: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:50.955] Attempt 41: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:51.190] Attempt 42: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:51.426] Attempt 43: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:51.665] Attempt 44: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:51.901] Attempt 45: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:52.138] Attempt 46: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:52.391] Attempt 47: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:52.628] Attempt 48: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:52.872] Attempt 49: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:53.110] Attempt 50: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:53.347] Attempt 51: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:53.584] Attempt 52: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:53.820] Attempt 53: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:54.057] Attempt 54: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:54.292] Attempt 55: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:54.528] Attempt 56: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:54.764] Attempt 57: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:55.000] Attempt 58: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:55.236] Attempt 59: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:55.474] Attempt 60: Response: {'status': 200, 'result': {'status': 'error', 'error': 'error_download_image', 'polling_interval': 300, 'results': []}}
+[2025-05-11 23:20:55.710] Attempt 61: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:55.947] Attempt 62: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:56.184] Attempt 63: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:56.424] Attempt 64: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:56.659] Attempt 65: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:56.894] Attempt 66: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:57.128] Attempt 67: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:57.362] Attempt 68: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:57.598] Attempt 69: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:57.833] Attempt 70: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:58.068] Attempt 71: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:58.304] Attempt 72: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:58.538] Attempt 73: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:58.771] Attempt 74: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:59.004] Attempt 75: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:59.238] Attempt 76: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:59.471] Attempt 77: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:59.705] Attempt 78: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:20:59.939] Attempt 79: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:00.174] Attempt 80: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:00.408] Attempt 81: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:00.643] Attempt 82: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:00.878] Attempt 83: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:01.113] Attempt 84: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:01.346] Attempt 85: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:01.588] Attempt 86: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:01.823] Attempt 87: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:02.056] Attempt 88: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:02.292] Attempt 89: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:02.526] Attempt 90: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:02.759] Attempt 91: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:02.995] Attempt 92: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:03.230] Attempt 93: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:03.466] Attempt 94: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:03.702] Attempt 95: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:03.936] Attempt 96: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:04.170] Attempt 97: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:04.405] Attempt 98: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:04.640] Attempt 99: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:04.876] Attempt 100: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:05.109] Attempt 101: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:05.373] Attempt 102: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:05.609] Attempt 103: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:05.843] Attempt 104: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:06.077] Attempt 105: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:06.313] Attempt 106: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:06.549] Attempt 107: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:06.783] Attempt 108: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:07.018] Attempt 109: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:07.253] Attempt 110: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:07.494] Attempt 111: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:07.728] Attempt 112: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:07.964] Attempt 113: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:08.202] Attempt 114: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:08.520] Attempt 115: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:08.757] Attempt 116: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:08.992] Attempt 117: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:09.228] Attempt 118: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:09.464] Attempt 119: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+[2025-05-11 23:21:09.698] Attempt 120: Response: {'status': 400, 'error': 'Invalid Task Id', 'error_code': 'InvalidTaskId'}
+Max retries reached. Task not completed.
+
+Final Result:
+ null
